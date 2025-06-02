@@ -6,3 +6,4 @@ class Truck(models.Model):
     name = models.CharField(max_length=10, null=False)
     km_value = models.FloatField(null=False)
     fixed_cost = models.FloatField(default=0.0)
+    max_weight = models.FloatField(null=False)

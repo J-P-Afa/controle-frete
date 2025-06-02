@@ -1,0 +1,14 @@
+* Tela de login
+
+* Tela de montagem de CTEs (Normal ou Complementar)
+* Tela de fechamento de carga
+
+* Tela de consulta de NFs
+* Tela de consulta de CTEs
+
+* Tela de fechamentos de fretes
+
+* Tela de cadastro de preços por km e outros preços 
+* Tela de cadastro de pessoas
+* Tela de cadastro de classificações de entrega
+* Tela de cadastro de caminhões
